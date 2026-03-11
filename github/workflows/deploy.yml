@@ -1,4 +1,4 @@
-name: Deploy Gym Tracker to .GitHub Pages
+name: Deploy Gym Tracker to GitHub Pages
 
 on:
   push:
