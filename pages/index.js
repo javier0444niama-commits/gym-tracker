@@ -2,15 +2,15 @@
 import { useState, useEffect } from 'react';
 import Head from 'next/head';
 import { COLORS, INITIAL_WORKOUTS, INITIAL_WEIGHTS } from '../lib/data';
-import Dashboard from '../components/tabs/Dashboard';
-import Routine from '../components/tabs/Routine';
-import WorkoutTab from '../components/tabs/Workout';
-import Progress from '../components/tabs/Progress';
-import AICoach from '../components/tabs/AICoach';
-import Music from '../components/tabs/Music';
-import Photos from '../components/tabs/Photos';
-import Wellness from '../components/tabs/Wellness';
-import Challenges from '../components/tabs/Challenges';
+import Dashboard from '../components/Dashboard';
+import Routine from '../components/Routine';
+import WorkoutTab from '../components/Workout';
+import Progress from '../components/Progress';
+import AICoach from '../components/AICoach';
+import Music from '../components/Music';
+import Photos from '../components/Photos';
+import Wellness from '../components/Wellness';
+import Challenges from '../components/Challenges';
 
 const C = COLORS;
 
